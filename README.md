@@ -6,5 +6,7 @@ Did I come up with the logic myself? 100%.
 🛠 What’s Inside?
 
 Pure Logic: My own unique approach to cracking algorithms. No "big brain" fluff, just honest code.
+
 Java Flavor: Written primarily in Java.
+
 Trial & Error: A record of me wrestling with edge cases until they finally behave.
